@@ -1,4 +1,4 @@
-# K-Means Implementation Project in Java
+# K-Means in Java
 
 This project is a Java implementation of the K-Means clustering algorithm using the famous Iris dataset. The K-Means algorithm is widely used in machine learning and data mining to partition data points into distinct clusters based on their similarity.
 
